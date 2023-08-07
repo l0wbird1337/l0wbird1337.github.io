@@ -15,7 +15,7 @@ website: swunderlich.xyz
 darkmode: false
 
 # Social links
-twitter_username: facespics
+twitter_username: 
 github_username:  sproogen
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -50,9 +50,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, I am Sebastian, a blockchain and distributed ledger technology specialist. I hold a Master's in Blockchain & DLT from the University of Applied Sciences Mittweida, where I graduated with honors.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled 
 
 content:
   - title: Projects # Title for the section
