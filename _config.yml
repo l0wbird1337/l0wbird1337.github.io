@@ -51,9 +51,9 @@ linkedin_username:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Seb and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+ Hi, my name is Sebastian Wunderlich, a blockchain and distributed ledger technology specialist. I hold a Master's in Blockchain & DLT from the University of Applied Sciences Mittweida, where I graduated with honors.
+ Throughout my education and professional experiences, I've developed expertise in cryptocurrencies, decentralized finance, stablecoins, and private blockchains.
+ I'm passionate about the transformational potential of blockchain technology. My aim is to leverage my technical skills and economics background to drive innovation in this rapidly evolving space.
 
 content:
   - title: Projects # Title for the section
