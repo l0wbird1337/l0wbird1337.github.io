@@ -105,14 +105,14 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-      - layout: left
-        title: Your B.Sc. University
-        caption: Years Attended
-        sub_title: B.Sc. Your Degree
-        quote: >
-          Quote about your B.Sc. education.
-        description: | # this will include new lines to allow paragraphs
-          Description of your B.Sc. education.
+#      - layout: left
+#        title: Your B.Sc. University
+#        caption: Years Attended
+#        sub_title: B.Sc. Your Degree
+#        quote: >
+#          Quote about your B.Sc. education.
+#        description: | # this will include new lines to allow paragraphs
+#          Description of your B.Sc. education.
 
  
 
