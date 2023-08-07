@@ -52,7 +52,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I am Sebastian, a blockchain and distributed ledger technology specialist. I hold a Master's in Blockchain & DLT from the University of Applied Sciences Mittweida, where I graduated with honors.
 
-  I am most skilled 
+  I am passionate about the transformational potential of blockchain technology. My aim is to leverage my technical skills and economics background to drive innovation in this rapidly evolving space.
 
 content:
   - title: Projects # Title for the section
@@ -105,14 +105,14 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in economics and computer science some of my other interests and hobbies are:
+      - surfing
+      - snowboarding
+      - diving
+      
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+#      Look at this cool image  
+#      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
