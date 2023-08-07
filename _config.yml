@@ -37,6 +37,9 @@ additional_links:
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
+- title: ENS Address
+  icon: fab fa-ethereum  # This is the Font Awesome icon for Ethereum
+  url: <your_ens_address>  # Replace <your_ens_address> with your actual ENS address
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
