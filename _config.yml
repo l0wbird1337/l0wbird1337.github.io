@@ -60,7 +60,8 @@ content:
           During my time at the university, I learned most of my key skills that I have taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time at the university and learned a lot about a healthy work-life balance.
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+          
+  - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in economics and computer science some of my other interests and hobbies are:
