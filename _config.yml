@@ -38,14 +38,55 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        title: Deloitte Blockchain Institute
+        link: https://www2.deloitte.com/de/de/pages/innovation/topics/blockchain.html
+        sub_title: Consultant Internship
+        caption: April 2022 - September 2022
         quote: >
-          Solving 21st century problems by digging holes and making game-changing products like the *not a flamethrower*
+          Worked alongside the business and the tech team. 
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Company is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Navigating the dynamic world of blockchain, I embarked on a journey at Deloitte. My role as a Technical Consultant had me diving deep into blockchain spaces, presenting insights to diverse audiences. I delved into Hyperledger Aries and ACAPy, coding in JavaScript and TypeScript. My scope ranged from CBDC to DeFi and other relevant topics.
+            
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Blockchain Competence Center Mittweida (BCCM)
+        link: https://blockchain.hs-mittweida.de/en/
+        sub_title: Researcher
+        caption: June 2021 - August 2021
+        quote: >
+          Study on Tokenization and potential economic impact of Web3
+        description: | # this will include new lines to allow paragraphs
+            At BCCM, my strides took me towards a fascinating study on tokenization and Web3. Supported by the Economic Council and the German Parliament, I spearheaded research, interviewing industry giants like BCG, IBM, ITSA, and more.
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Blockchain Competence Center Mittweida (BCCM)
+        link: https://blockchain.hs-mittweida.de/en/
+        sub_title: Researcher L2 Technologies
+        caption: December 2020 - February 2021
+        quote: >
+          Research on Layer 2 Technologies, focus on Ethereum Ecosystem
+        description: | # this will include new lines to allow paragraphs
+            Research on Layer 2 Solutions in the Distributed Ledger Space. Focused on Ethereum and Bitcoin. Lightning, Rollups,State channels. Created the most comprehensive list of Layer 2 Projects in 2021.
+
+ - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: German Parliament (Deutscher Bundestag)
+        link: https://blockchain.hs-mittweida.de/en/
+        sub_title: Digital Policy Analyst
+        caption: May 2019 - August 2019
+        quote: >
+          Research on Layer 2 Technologies, focus on Ethereum Ecosystem
+        description: | # this will include new lines to allow paragraphs
+            Research on Layer 2 Solutions in the Distributed Ledger Space. Focused on Ethereum and Bitcoin.
+
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -55,10 +96,10 @@ content:
         caption: 2020 - 2023
         sub_title: M.Sc. Blockchain & Distributed Ledger Technologies
         quote: >
-          The two year program in Blockchain & Distributed Ledger Technology is the first two year program world wide focusing on Distributed Ledger technologies.
+          The program in Blockchain & Distributed Ledger Technology is the first two year program world wide focusing on Distributed Ledger Technologies.
         description: | # this will include new lines to allow paragraphs
-          The program focuses on the Bitcoin and Ethereum blockchains. The curriculum offers comprehensive insights into these transformative technologies. An in depth understanding of Ethereum is given with an introduction to Solidity.
-          To deepen my Comouter Science knowledge, I spent a semester abroad at James Cook University in Singapore, further expanding my horizon.
+          The program focuses on the Bitcoin and Ethereum blockchain. The curriculum offers comprehensive insights into these transformative technologies. An in depth understanding of Ethereum is given with an introduction to Solidity.
+          To deepen my Computer Science knowledge, I spent a semester abroad at James Cook University in Singapore.
           Beyond technology, the program nurtured an innovative spirit, equipping graduates like myself with entrepreneurial skills for real-world impact.
           
           
@@ -91,3 +132,4 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
