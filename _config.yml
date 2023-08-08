@@ -73,7 +73,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Research on Layer 2 Solutions in the Distributed Ledger Space. Focused on Ethereum and Bitcoin. Lightning, Rollups,State channels. Created the most comprehensive list of Layer 2 Projects in 2021.
 
- - title: Experience # Title for the section
+  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
