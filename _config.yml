@@ -55,7 +55,7 @@ content:
         caption: 2020 - 2023
         sub_title: M.Sc. Blockchain & Distributed Ledger Technologies
         quote: >
-          The University of Applied Sciences Mittweida is a public University of Applied Sciences in Germany. The two year program in Blockchain & Distributed Ledger Technology is the first two year program world wide.
+          The two year program in Blockchain & Distributed Ledger Technology is the first two year program world wide focusing on Distributed Ledger technologies.
         description: | # this will include new lines to allow paragraphs
           The program focuses on the Bitcoin and Ethereum blockchains. The curriculum offers comprehensive insights into these transformative technologies. An in depth understanding of Ethereum is given with an introduction to Solidity.
           To deepen my Comouter Science knowledge, I spent a semester abroad at James Cook University in Singapore, further expanding my horizon.
@@ -64,7 +64,7 @@ content:
           
       - layout: left
         title: Free University of Berlin,
-        caption: 2015 - Year 2019
+        caption: 2015 - 2019
         sub_title: B.Sc. Economics
         quote: >
           Founded in 1948, the Free University of Berlin (Freie Universität Berlin) stands as a renowned institution in Germany and beyond.
