@@ -39,7 +39,7 @@ content:
     content:
       - layout: left
         title: Deloitte Blockchain Institute
-        link: https://www2.deloitte.com/de/de/pages/innovation/topics/blockchain.html
+        link: https://www2.deloitte.com
         sub_title: Consultant Internship
         caption: April 2022 - September 2022
         quote: >
@@ -47,12 +47,12 @@ content:
         description: | # this will include new lines to allow paragraphs
             Navigating the dynamic world of blockchain, I embarked on a journey at Deloitte. My role as a Technical Consultant had me diving deep into blockchain spaces, presenting insights to diverse audiences. I delved into Hyperledger Aries and ACAPy, coding in JavaScript and TypeScript. My scope ranged from CBDC to DeFi and other relevant topics.
             
-  - title: Experience # Title for the section
+#  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Blockchain Competence Center Mittweida (BCCM)
-        link: https://blockchain.hs-mittweida.de/en/
+        link: https://blockchain.hs-mittweida.de
         sub_title: Researcher
         caption: June 2021 - August 2021
         quote: >
@@ -60,12 +60,12 @@ content:
         description: | # this will include new lines to allow paragraphs
             At BCCM, my strides took me towards a fascinating study on tokenization and Web3. Supported by the Economic Council and the German Parliament, I spearheaded research, interviewing industry giants like BCG, IBM, ITSA, and more.
 
-  - title: Experience # Title for the section
+# - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Blockchain Competence Center Mittweida (BCCM)
-        link: https://blockchain.hs-mittweida.de/en/
+        link: https://blockchain.hs-mittweida.de
         sub_title: Researcher L2 Technologies
         caption: December 2020 - February 2021
         quote: >
@@ -73,12 +73,12 @@ content:
         description: | # this will include new lines to allow paragraphs
             Research on Layer 2 Solutions in the Distributed Ledger Space. Focused on Ethereum and Bitcoin. Lightning, Rollups,State channels. Created the most comprehensive list of Layer 2 Projects in 2021.
 
-  - title: Experience # Title for the section
+#  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: German Parliament (Deutscher Bundestag)
-        link: https://blockchain.hs-mittweida.de/en/
+        link: www.bundestag.de
         sub_title: Digital Policy Analyst
         caption: May 2019 - August 2019
         quote: >
@@ -132,4 +132,5 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
 
