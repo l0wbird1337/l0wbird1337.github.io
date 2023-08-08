@@ -55,20 +55,21 @@ content:
         caption: 2020 - 2023
         sub_title: M.Sc. Blockchain & Distributed Ledger Technologies
         quote: >
-          I hold a Master's in Blockchain & DLT from the University of Applied Sciences Mittweida, where I graduated with honors.
+          The University of Applied Sciences Mittweida is a public University of Applied Sciences in Germany. The two year program in Blockchain & Distributed Ledger Technology is the first two year program world wide.
         description: | # this will include new lines to allow paragraphs
-          During my time at the university, I learned most of my key skills that I have taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time at the university and learned a lot about a healthy work-life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          The program focuses on the Bitcoin and Ethereum blockchains. The curriculum offers comprehensive insights into these transformative technologies. An in depth understanding of Ethereum is given with an introduction to Solidity.
+          To deepen my Comouter Science knowledge, I spent a semester abroad at James Cook University in Singapore, further expanding my horizon.
+          Beyond technology, the program nurtured an innovative spirit, equipping graduates like myself with entrepreneurial skills for real-world impact.
+          
           
       - layout: left
-        title: Another University/College Name
-        caption: Year Started - Year Ended
-        sub_title: B.Sc. Computer Science
+        title: Free University of Berlin,
+        caption: 2015 - Year 2019
+        sub_title: B.Sc. Economics
         quote: >
-          Brief description of the university/college.
+          Founded in 1948, the Free University of Berlin (Freie Universität Berlin) stands as a renowned institution in Germany and beyond.
         description: | # this will include new lines to allow paragraphs
-          Details about your B.Sc. Computer Science education can be added here.
+          With a strong commitment to academic excellence and interdisciplinary learning, the university offers a dynamic environment for students pursuing various fields of study. The B.Sc. in Economics program at the Free University of Berlin is designed to provide students with a comprehensive understanding of economic principles, theories, and applications. Renowned for its rigorous curriculum and diverse faculty, the university equips graduates with the analytical skills and knowledge needed to excel in the dynamic world of economics and beyond
 
   - title: A Little More About Me
     layout: text
@@ -90,5 +91,3 @@ sass:
 
 plugins:
  - jekyll-seo-tag
-
-
