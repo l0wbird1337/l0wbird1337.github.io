@@ -48,8 +48,8 @@ content:
             Navigating the dynamic world of blockchain, I embarked on a journey at Deloitte. My role as a Technical Consultant had me diving deep into blockchain spaces, presenting insights to diverse audiences. I delved into Hyperledger Aries and ACAPy, coding in JavaScript and TypeScript. My scope ranged from CBDC to DeFi and other relevant topics.
             
 #  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+#    layout: list # Type of content section (list/text)
+#    content:
       - layout: left
         title: Blockchain Competence Center Mittweida (BCCM)
         link: https://blockchain.hs-mittweida.de
@@ -61,8 +61,8 @@ content:
             At BCCM, my strides took me towards a fascinating study on tokenization and Web3. Supported by the Economic Council and the German Parliament, I spearheaded research, interviewing industry giants like BCG, IBM, ITSA, and more.
 
 # - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+#    layout: list # Type of content section (list/text)
+#    content:
       - layout: left
         title: Blockchain Competence Center Mittweida (BCCM)
         link: https://blockchain.hs-mittweida.de
@@ -132,5 +132,6 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
 
 
