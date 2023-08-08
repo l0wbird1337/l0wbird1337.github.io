@@ -22,9 +22,9 @@ linkedin_username: jameswgrant
 
 # Additional icon links
 additional_links:
-  - title: ENS Address
-    icon: fab fa-ethereum
-    url: <your_ens_address>
+- title: ENS Address
+  icon: fab fa-ethereum
+  url: <your_ens_address>
 
 # About Section
 about_profile_image: images/profile.jpg
@@ -61,6 +61,15 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
           
+      - layout: left
+        title: Another University/College Name
+        caption: Year Started - Year Ended
+        sub_title: B.Sc. Computer Science
+        quote: >
+          Brief description of the university/college.
+        description: | # this will include new lines to allow paragraphs
+          Details about your B.Sc. Computer Science education can be added here.
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -81,4 +90,5 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
 
