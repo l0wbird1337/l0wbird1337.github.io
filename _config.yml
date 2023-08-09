@@ -58,7 +58,7 @@ content:
         quote: >
           Study on Tokenization and potential economic impact of Web3
         description: | # this will include new lines to allow paragraphs
-            At BCCM, my strides took me towards a fascinating study on tokenization and Web3. Supported by the Economic Council and the German Parliament, I spearheaded research, interviewing industry giants like BCG, IBM, ITSA, and more.
+            At BCCM, my strides took me towards a fascinating study on tokenization and Web3. Supported by the Economic Council and the German Parliament, I spearheaded research, interviewing industry giants like BCG, IBM, ITSA and more.
 
 # - title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
@@ -82,9 +82,9 @@ content:
         sub_title: Digital Policy Analyst
         caption: May 2019 - August 2019
         quote: >
-          Research on Layer 2 Technologies, focus on Ethereum Ecosystem
+          Research on digital Topics.
         description: | # this will include new lines to allow paragraphs
-            Research on Layer 2 Solutions in the Distributed Ledger Space. Focused on Ethereum and Bitcoin.
+            Focused on Distributed Ledger Technologies, Artificial Intelligence, Platform Economics, Belt and Road Initiative. Book published: Neustaat- Politik und Staat mussen sich ¨andern. Pitched ideas in front of members of parliament.
 
 
 
@@ -132,4 +132,5 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
 
