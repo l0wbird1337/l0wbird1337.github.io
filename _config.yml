@@ -16,8 +16,8 @@ darkmode: false
 
 # Social links
 twitter_username: 
-github_username:  nas
-instagram_username: na
+github_username:  notset
+instagram_username: notset
 linkedin_username: na
 
 # Additional icon links
@@ -43,7 +43,7 @@ content:
         sub_title: Consultant Internship
         caption: April 2022 - September 2022
         quote: >
-          Worked alongside the business and the tech team. 
+          Worked alongside the business and the tech team
         description: | # this will include new lines to allow paragraphs
             Navigating the dynamic world of blockchain, I embarked on a journey at Deloitte. My role as a Technical Consultant had me diving deep into blockchain spaces, presenting insights to diverse audiences. I delved into Hyperledger Aries and ACAPy, coding in JavaScript and TypeScript. My scope ranged from CBDC to DeFi and other relevant topics.
             
@@ -82,9 +82,9 @@ content:
         sub_title: Digital Policy Analyst
         caption: May 2019 - August 2019
         quote: >
-          Research on digital Topics.
+          Research on digital Topics
         description: | # this will include new lines to allow paragraphs
-            Focused on Distributed Ledger Technologies, Artificial Intelligence, Platform Economics, Belt and Road Initiative. Book published: Neustaat- Politik und Staat mussen sich ¨andern. Pitched ideas in front of members of parliament.
+            Focused on Distributed Ledger Technologies, Artificial Intelligence, Platform Economics, Belt and Road Initiative. Book published: Neustaat- Politik und Staat mussen sich aendern. Pitched ideas in front of members of parliament.
 
 
 
