@@ -42,24 +42,24 @@ content:
     content:
       - layout: left
         title: Deloitte Blockchain Institute
-        link: https://www2.deloitte.com
+        link: www2.deloitte.com
         sub_title: Consultant Internship
         caption: April 2022 - September 2022
         quote: >
           Worked alongside the business and the tech team
         description: | # this will include new lines to allow paragraphs
-            Navigating the dynamic world of blockchain, I embarked on a journey at Deloitte. My role as a Technical Consultant had me diving deep into blockchain spaces, presenting insights to diverse audiences. I delved into Hyperledger Aries and ACA-Py, coding in JavaScript and TypeScript. My scope ranged from CBDC to DeFi and I presented my findings on Stablecoins and the TerraLuna crash.
+            Navigating the dynamic world of blockchain, I embarked on a journey at Deloitte. My role as a Technical Consultant had me diving deep into blockchain spaces, presenting insights to diverse audiences. I delved into Hyperledger Aries and ACA-Py, coding in JavaScript and TypeScript. My scope ranged from CBDC to DeFi and I presented my findings on stablecoins and the TerraLuna crash.
             
 #  - title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
 #    content:
       - layout: left
         title: Blockchain Competence Center Mittweida (BCCM)
-        link: https://blockchain.hs-mittweida.de
+        link: blockchain.hs-mittweida.de
         sub_title: Researcher
         caption: June 2021 - August 2021
         quote: >
-          Study on Tokenization and potential economic impact of Web3
+          Study on tokenization and the potential economic impact of Web3
         description: | # this will include new lines to allow paragraphs
             At BCCM, my strides took me towards a fascinating study on tokenization and Web3. Supported by the Economic Council and the German Parliament, I spearheaded research, interviewing industry giants like BCG, IBM, ITSA and more.
 
@@ -68,11 +68,11 @@ content:
 #    content:
       - layout: left
         title: Blockchain Competence Center Mittweida (BCCM)
-        link: https://blockchain.hs-mittweida.de
+        link: blockchain.hs-mittweida.de
         sub_title: Researcher L2 Technologies
         caption: December 2020 - February 2021
         quote: >
-          Research on Layer 2 Technologies, focus on Ethereum Ecosystem
+          Research on Layer 2 Technologies with a focus on Ethereum Ecosystem
         description: | # this will include new lines to allow paragraphs
             Research on Layer 2 Solutions in the Distributed Ledger Space. Focused on Ethereum and Bitcoin. Lightning, Rollups,State channels. Created the most comprehensive list of Layer 2 Projects in 2021.
 
@@ -81,11 +81,11 @@ content:
 #    content:
       - layout: left
         title: German Parliament (Deutscher Bundestag)
-        link: www.bundestag.de
+        link: bundestag.de
         sub_title: Digital Policy Analyst
         caption: May 2019 - August 2019
         quote: >
-          Research on digital Topics
+          Pushing digitization 
         description: | # this will include new lines to allow paragraphs
             Focused on Distributed Ledger Technologies, Artificial Intelligence, Platform Economics, Belt and Road Initiative. Book published: Neustaat- Politik und Staat mussen sich aendern. Pitched ideas in front of members of parliament.
 
@@ -113,7 +113,7 @@ content:
         quote: >
           Founded in 1948, the Free University of Berlin (Freie Universität Berlin) stands as a renowned institution in Germany.
         description: | # this will include new lines to allow paragraphs
-          With a strong commitment to academic excellence and interdisciplinary learning, the university offers a dynamic environment for students pursuing various fields of study. The B.Sc. in Economics program at the Free University of Berlin is designed to provide students with a comprehensive understanding of economic principles, theories, and applications. Renowned for its rigorous curriculum and diverse faculty, the university equips graduates with the analytical skills and knowledge needed. During my studies I spent one semester in Athens, Greece at the Athens University of Economics and Business and one semester in Kuala Lumpur at Monash University Malaysia.
+          With a strong commitment to academic excellence and interdisciplinary learning, the university offers a dynamic environment for students pursuing various fields of study. The B.Sc. in Economics program at the Free University of Berlin is designed to provide students with a comprehensive understanding of economic principles, theories, and applications. Renowned for its rigorous curriculum and diverse faculty, the university equips graduates with the analytical skills and knowledge. During my studies I spent one semester in Athens, Greece at the Athens University of Economics and Business and one semester in Kuala Lumpur at Monash University Malaysia.
 
 
   - title: A Little More About Me
