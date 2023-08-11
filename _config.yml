@@ -48,7 +48,7 @@ content:
         quote: >
           Worked alongside the business and the tech team
         description: | # this will include new lines to allow paragraphs
-            Navigating the dynamic world of blockchain, I embarked on a journey at Deloitte. My role as a Technical Consultant had me diving deep into blockchain spaces, presenting insights to diverse audiences. I delved into Hyperledger Aries and ACAPy, coding in JavaScript and TypeScript. My scope ranged from CBDC to DeFi and other relevant topics.
+            Navigating the dynamic world of blockchain, I embarked on a journey at Deloitte. My role as a Technical Consultant had me diving deep into blockchain spaces, presenting insights to diverse audiences. I delved into Hyperledger Aries and ACA-Py, coding in JavaScript and TypeScript. My scope ranged from CBDC to DeFi and I presented my findings on Stablecoins and the TerraLuna crash.
             
 #  - title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
