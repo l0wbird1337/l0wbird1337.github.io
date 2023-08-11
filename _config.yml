@@ -17,7 +17,6 @@ darkmode: false
 # Social links
 twitter_username: 
 github_username:  notset
-instagram_username: notset
 linkedin_username: na
 
 # Additional icon links
@@ -25,6 +24,10 @@ additional_links:
 - title: ENS Address
   icon: fab fa-ethereum
   url: <your_ens_address>
+
+- title: PGP Key
+  icon: fas fa-key
+  url: https://raw.githubusercontent.com/l0wbird1337/l0wbird1337.github.io/main/pubkey.txt
 
 # About Section
 about_profile_image: images/profile.jpg
