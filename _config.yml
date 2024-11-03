@@ -9,7 +9,7 @@ version: 2
 name: Sebastian Wunderlich
 title: M.Sc. Blockchain & Distributed Ledger Technologies
 email: s.wunderlich[at]hotmail.com
-website: swunderlich.xyz
+
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -17,7 +17,8 @@ darkmode: false
 # Social links
 twitter_username: 
 github_username: SebCode37
-linkedin_username: Sebastian W.
+linkedin_username: "sebastian-w-b3156582"
+
 
 # Additional icon links
 additional_links:
