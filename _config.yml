@@ -37,9 +37,7 @@ about_content: | # this will include new lines to allow paragraphs
   a blockchain and distributed ledger technology specialist currently pursuing my PhD at the University of Technology Sydney (UTS), funded by the Digital
   Finance Cooperative Research Centre (DFCRC). 
   I hold a Master’s in Blockchain &amp; DLT from the University of Applied Science Mittweida and a Bachelor's in Economics from the Free University of Berlin.
-              
-  I gained work experience at the German Parliament, the Blockchain Competence Center Mittweida and Deloitte.
-              
+                         
   I am passionate about the transformational potential of technology. My aim is to leverage my technical skills and economics background to drive innovation in this rapidly
   evolving space.
 
@@ -55,7 +53,7 @@ content:
         quote: >
           Worked alongside the business and the tech team
         description: | # this will include new lines to allow paragraphs
-            Navigating the dynamic world of blockchain, I embarked on a journey at Deloitte. My role as a Technical Consultant had me diving deep into blockchain spaces, presenting insights to diverse audiences. I delved into Hyperledger Aries and ACA-Py, coding in JavaScript and TypeScript. My scope ranged from CBDC to DeFi and I presented my findings on stablecoins and the TerraLuna crash.
+            My role as a Technical Consultant had me diving deep into different blockchain areas. I delved into Hyperledger Aries and ACA-Py, coding in JavaScript and TypeScript. My scope ranged from CBDC to DeFi and I presented my findings on stablecoins and the TerraLuna crash.
             
 #  - title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
@@ -68,7 +66,7 @@ content:
         quote: >
           Study on tokenization and the potential economic impact of Web3
         description: | # this will include new lines to allow paragraphs
-            At BCCM, my strides took me towards a fascinating study on tokenization and Web3. Supported by the Economic Council and the German Parliament, I spearheaded research, interviewing industry giants like BCG, IBM, ITSA and more.
+            At BCCM, my efforts took me towards a fascinating study on tokenization and Web3. Supported by the Economic Council and the German Parliament, I led research, interviewing industry giants like BCG, IBM, ITSA and more.
 
 # - title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
@@ -81,7 +79,7 @@ content:
         quote: >
           Research on Layer 2 Technologies with a focus on Ethereum Ecosystem
         description: | # this will include new lines to allow paragraphs
-            Research on Layer 2 Solutions in the Distributed Ledger Space. Focused on Ethereum and Bitcoin. Lightning, Rollups,State channels. Created the most comprehensive list of Layer 2 Projects in 2021.
+            Research on Layer 2 Solutions in the Distributed Ledger Space. Focused on Ethereum and Bitcoin. Lightning, Rollups, State channels. Created the most comprehensive list of Layer 2 Projects in 2021.
 
 #  - title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
@@ -94,7 +92,7 @@ content:
         quote: >
           Pushing digitization 
         description: | # this will include new lines to allow paragraphs
-            Focused on Distributed Ledger Technologies, Artificial Intelligence, Platform Economics, Belt and Road Initiative. Book published: Neustaat- Politik und Staat mussen sich aendern. Pitched ideas in front of members of parliament.
+            Focused on Distributed Ledger Technologies, Artificial Intelligence, Platform Economics and Belt and Road Initiative. Book published: Neustaat- Politik und Staat mussen sich aendern. Pitched ideas in front of members of parliament.
 
 
 
@@ -110,7 +108,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           The program focuses on the Bitcoin and Ethereum blockchain. The curriculum offers comprehensive insights into these transformative technologies. An in depth understanding of Ethereum is given with an introduction to Solidity.
           To deepen my Computer Science knowledge, I spent a semester abroad at James Cook University in Singapore.
-          Beyond technology, the program nurtured an innovative spirit, equipping graduates like myself with entrepreneurial skills for real-world impact.
+          
           
           
       - layout: left
@@ -120,7 +118,7 @@ content:
         quote: >
           Founded in 1948, the Free University of Berlin (Freie Universität Berlin) stands as a renowned institution in Germany.
         description: | # this will include new lines to allow paragraphs
-          With a strong commitment to academic excellence and interdisciplinary learning, the university offers a dynamic environment for students pursuing various fields of study. The B.Sc. in Economics program at the Free University of Berlin is designed to provide students with a comprehensive understanding of economic principles, theories, and applications. Renowned for its rigorous curriculum and diverse faculty, the university equips graduates with the analytical skills and knowledge. During my studies I spent one semester in Athens, Greece at the Athens University of Economics and Business and one semester in Kuala Lumpur at Monash University Malaysia.
+          With a strong commitment to academic excellence and interdisciplinary learning, the university offers a dynamic environment for students. The B.Sc. in Economics program at the Free University of Berlin is designed to provide students with a comprehensive understanding of economic principles. During my studies I spent one semester in Athens, Greece at the Athens University of Economics and Business and one semester in Kuala Lumpur at Monash University Malaysia.
 
 
   - title: A Little More About Me
