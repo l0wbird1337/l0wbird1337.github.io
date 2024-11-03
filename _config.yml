@@ -33,12 +33,14 @@ additional_links:
 # About Section
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Sebastian, a blockchain and distributed ledger technology specialist currently pursuing my PhD at the University of Technology Sydney (UTS), funded by the Digital
-  Finance Cooperative Research Centre (DFCRC). I hold a Master’s in Blockchain &amp; DLT from the University of Applied Science Mittweida and a Bachelor's in Economics from the Free University of Berlin
+  Hi, I'm Sebastian, 
+  a blockchain and distributed ledger technology specialist currently pursuing my PhD at the University of Technology Sydney (UTS), funded by the Digital
+  Finance Cooperative Research Centre (DFCRC). 
+  I hold a Master’s in Blockchain &amp; DLT from the University of Applied Science Mittweida and a Bachelor's in Economics from the Free University of Berlin.
               
-  Previously, I gained valuable experience at the German Parliament, the Blockchain Competence Center Mittweid and Deloitte
+  I gained work experience at the German Parliament, the Blockchain Competence Center Mittweida and Deloitte.
               
-  I am passionate about the transformational potential of blockchain technology. My aim is to leverage my technical skills and economics background to drive innovation in this rapidly
+  I am passionate about the transformational potential of technology. My aim is to leverage my technical skills and economics background to drive innovation in this rapidly
   evolving space.
 
 content:
