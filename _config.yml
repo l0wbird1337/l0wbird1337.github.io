@@ -53,7 +53,7 @@ content:
         quote: >
           Worked alongside the business and the tech team
         description: | # this will include new lines to allow paragraphs
-            My role as a Technical Consultant had me diving deep into different blockchain areas. I delved into Hyperledger Aries and ACA-Py, coding in JavaScript and TypeScript. My scope ranged from CBDC to DeFi and I presented my findings on stablecoins and the TerraLuna crash.
+            My role as a Technical Consultant had me diving deep into different blockchain areas. I explored Hyperledger Aries and ACA-Py and worked with JavaScript and TypeScript. My scope ranged from CBDC to DeFi.
             
 #  - title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
@@ -92,7 +92,7 @@ content:
         quote: >
           Pushing digitization 
         description: | # this will include new lines to allow paragraphs
-            Focused on Distributed Ledger Technologies, Artificial Intelligence, Platform Economics and Belt and Road Initiative. Book published: Neustaat- Politik und Staat mussen sich aendern. Pitched ideas in front of members of parliament.
+            Focused on Distributed Ledger Technologies, Artificial Intelligence, Platform Economics and Belt and Road Initiative. Book published: Neustaat- Politik und Staat mussen sich ändern. Pitched ideas in front of members of parliament.
 
 
 
@@ -124,11 +124,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in economics and computer science some of my other interests and hobbies are:
-      - surfing
-      - snowboarding
-      - diving
-      - traveling
+      Alongside my interests in economics and computer science some of my other interests and hobbies are surfing, snowboarding, diving and traveling.
 
 # Footer
 footer_show_references: true
