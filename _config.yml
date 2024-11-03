@@ -24,7 +24,7 @@ linkedin_username: "sebastian-w-b3156582"
 additional_links:
 - title: ENS Address
   icon: fab fa-ethereum
-  url: <your_ens_address>
+  url: "https://www.google.com/search?q=swunderlich.eth"
 
 - title: PGP Key
   icon: fas fa-key
@@ -33,9 +33,13 @@ additional_links:
 # About Section
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I am Sebastian, a blockchain and distributed ledger technology specialist. I hold a Master's in Blockchain & DLT from the University of Applied Sciences Mittweida, where I graduated with honors.
-
-  I am passionate about the transformational potential of blockchain technology. My aim is to leverage my technical skills and economics background to drive innovation in this rapidly evolving space.
+  Hi, I'm Sebastian, a blockchain and distributed ledger technology specialist currently pursuing my PhD at the University of Technology Sydney (UTS), funded by the Digital
+  Finance Cooperative Research Centre (DFCRC). I hold a Master’s in Blockchain &amp; DLT from the University of Applied Science Mittweida and a Bachelor's in Economics from the Free University of Berlin
+              
+  Previously, I gained valuable experience at the German Parliament, the Blockchain Competence Center Mittweid and Deloitte
+              
+  I am passionate about the transformational potential of blockchain technology. My aim is to leverage my technical skills and economics background to drive innovation in this rapidly
+  evolving space.
 
 content:
   - title: Experience # Title for the section
