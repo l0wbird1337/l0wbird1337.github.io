@@ -35,7 +35,7 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I am Sebastian, 
-  
+
   a distributed ledger technology expert currently pursuing a PhD at the University of Technology Sydney (UTS), funded by the Digital
   Finance Cooperative Research Centre (DFCRC). \
   I hold a Master’s in Blockchain &amp; Distributed Ledger Technologies from the University of Applied Sciences Mittweida and a Bachelor's in Economics from the Free University of Berlin.
@@ -126,7 +126,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-    Alongside my interests in economics and computer science, some of my other interests and hobbies are surfing, snowboarding, diving, and traveling.
+          Alongside my interests in economics and computer science, some of my other interests and hobbies are surfing, snowboarding, diving, and traveling.
  
 # Footer
 footer_show_references: true
