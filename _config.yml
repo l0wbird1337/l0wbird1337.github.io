@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Sebastian Wunderlich
 title: PhD Student at University of Technology Sydney (UTS)
-email: s.wunderlich[at]hotmail.com
+email: Sebastian.Wunderlich[at]dfcrc.com
 
 
 # Dark Mode (true/false/never)
@@ -36,11 +36,11 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I am Sebastian, 
 
-  a distributed ledger technology expert currently pursuing a PhD at the University of Technology Sydney (UTS), funded by the Digital
+  a distributed ledger technology researcher currently pursuing a PhD at the University of Technology Sydney (UTS), funded by the Digital
   Finance Cooperative Research Centre (DFCRC). \
   I hold a Master’s in Blockchain &amp; Distributed Ledger Technologies from the University of Applied Sciences Mittweida and a Bachelor's in Economics from the Free University of Berlin.
                          
-  I am passionate about the transformational potential of technology. My aim is to leverage my technical skills and economics background to drive innovation in this rapidly
+  I am passionate about the transformational potential of technology. I aim to leverage my technical skills and economics background to drive innovation in this rapidly
   evolving space.
 
 content:
@@ -55,7 +55,7 @@ content:
         quote: >
           Worked alongside the business and the tech team
         description: | # this will include new lines to allow paragraphs
-            My role as a Technical Consultant had me diving deep into different blockchain areas. I explored Hyperledger Aries and ACA-Py and worked with JavaScript and TypeScript. My scope ranged from CBDC to DeFi.
+            My role as a Technical Consultant involved diving deep into different blockchain areas. I explored Hyperledger Aries and ACA-Py and worked with JavaScript and TypeScript. My scope ranged from CBDC to DeFi.
             
 #  - title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
@@ -68,7 +68,7 @@ content:
         quote: >
           Study on tokenization and the potential economic impact of Web3
         description: | # this will include new lines to allow paragraphs
-            At BCCM, my efforts took me towards a fascinating study on tokenization and Web3. Supported by the Economic Council and the German Parliament, I led research, interviewing industry giants like BCG, IBM, ITSA and more.
+            At BCCM, my efforts took me towards a fascinating study on tokenization and Web3. Supported by the Economic Council and the German Parliament, I led research, interviewing industry giants like BCG, IBM, ITSA, and more.
 
 # - title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
@@ -79,7 +79,7 @@ content:
         sub_title: Researcher L2 Technologies
         caption: December 2020 - February 2021
         quote: >
-          Research on Layer 2 Technologies with a focus on Ethereum Ecosystem
+          Research on Layer 2 Technologies with a focus on the Ethereum Ecosystem
         description: | # this will include new lines to allow paragraphs
             Research on Layer 2 Solutions in the Distributed Ledger Space. Focused on Ethereum and Bitcoin. Lightning, Rollups, State channels. Created the most comprehensive list of Layer 2 Projects in 2021.
 
@@ -108,7 +108,7 @@ content:
         quote: >
           The program is the world's first two-year curriculum dedicated to Distributed Ledger Technologies.
         description: | # this will include new lines to allow paragraphs
-          The program focuses on the Bitcoin and Ethereum blockchain. The curriculum offers comprehensive insights into these transformative technologies. An in depth understanding of Ethereum is given with an introduction to Solidity.
+          The program focuses on the Bitcoin and Ethereum blockchain. The curriculum offers comprehensive insights into these transformative technologies. An in-depth understanding of Ethereum is given with an introduction to Solidity.
           To deepen my Computer Science knowledge, I spent a semester abroad at James Cook University in Singapore.
           
           
@@ -120,7 +120,7 @@ content:
         quote: >
           Founded in 1948, the Free University of Berlin (Freie Universität Berlin) stands as a renowned institution in Germany.
         description: | # this will include new lines to allow paragraphs
-          With a strong commitment to academic excellence and interdisciplinary learning, the university offers a dynamic environment for students. During my studies I spent one semester in Athens, Greece at the Athens University of Economics and Business and one semester in Kuala Lumpur at Monash University Malaysia.
+          With a strong commitment to academic excellence and interdisciplinary learning, the university offers a dynamic environment for students. During my studies, I spent one semester in Athens, Greece at the Athens University of Economics and Business and one semester in Kuala Lumpur, Malaysia at Monash University Malaysia.
 
 
   - title: A Little More About Me
